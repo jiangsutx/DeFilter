@@ -27,12 +27,12 @@ Currently, our Filter Toolbox contains 16 filters, all of which are from authors
 
 If the filter toolbox or our method are useful for your research, please consider citing:
 
-    @article{zhao2016pspnet,
+    @article{tao2017defilter,
       author    = {Xin Tao and
-      			   Chao Zhou and
-      			   Xiaoyong Shen and
-      			   Jue Wang and
-      			   Jiaya Jia},
+                   Chao Zhou and
+                   Xiaoyong Shen and
+                   Jue Wang and
+                   Jiaya Jia},
       title     = {Zero-order Reverse Filtering},
       journal   = {CoRR},
       volume    = {abs},
