@@ -35,9 +35,9 @@ If the filter toolbox or our method are useful for your research, please conside
                    Jiaya Jia},
       title     = {Zero-order Reverse Filtering},
       journal   = {CoRR},
-      volume    = {abs},
+      volume    = {abs/1704.04037},
       year      = {2017},
-      url       = {https://arxiv.org/abs/},
+      url       = {https://arxiv.org/abs/1704.04037},
       }
 
 ## Contact
